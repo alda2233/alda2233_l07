@@ -1,0 +1,131 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mohamed Aldakhil
+ID:      169072233
+Email:   alda2233@mylaurier.ca
+Version: 2023-09-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess a number between 1 and 2
+Guess: 1
+Too low, try again.
+Guess: 2
+Congratulations - good guess!
+You made 2 guesses.
+
+Guess a number between 1 and 10
+Guess: 5
+Too high, try again.
+Guess: 3
+Congratulations - good guess!
+You made 2 guesses.
+
+Guess a number between 1 and 35
+Guess: 23
+Too high, try again.
+Guess: 10
+Too high, try again.
+Guess: 3
+Too high, try again.
+Guess: 2
+Congratulations - good guess!
+You made 4 guesses.
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the target value: 248
+256
+
+Enter the target value: 3
+4
+
+Enter the target value: 0
+1
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the target value: 26
+30
+
+Enter the target value: 100
+140
+
+Enter the target value: 9
+14
+
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For Day 1
+How much was breakfast? $7.95
+How much was lunch? $15.32
+How much was supper? $42.56
+Your total for the day was $65.83
+Were you away another day (Y/N)? Y
+For Day 2
+How much was breakfast? $5.55
+How much was lunch? $12.39
+How much was supper? $36.23
+Your total for the day was $54.17
+Were you away another day (Y/N)? N
+(13.50, 27.71, 78.79, 120.00)
+
+For Day 1
+How much was breakfast? $0
+How much was lunch? $0
+How much was supper? $0
+Your total for the day was $0.00
+Were you away another day (Y/N)? N
+0.00,0.00,0.00,0.00
+
+For Day 1
+How much was breakfast? $1.5
+How much was lunch? $2.5
+How much was supper? $3.5
+Your total for the day was $7.50
+Were you away another day (Y/N)? N
+1.50,2.50,3.50,7.50
+
+
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 123
+Hourly wage rate: $45
+Hours worked: 46
+Net payment for employee 123: $2125.07
+
+Employee ID: 124
+Hourly wage rate: $30
+Hours worked: 46
+Net payment for employee 124: $1416.71
+
+Employee ID: 0
+3541.78,1770.89
+
+Employee ID: 0
+0.00,0.00
+
+
+Employee ID: 1
+Hourly wage rate: $0
+Hours worked: 0
+Net payment for employee 1: $0.00
+
+Employee ID: 0
+0.00,0.00
+
+
+-------------------------------------------------------
+
